@@ -52,8 +52,8 @@ It uses:
 ### 1️⃣ Clone the repo
 
 ```bash
-git clone https://github.com/Suhani2205/my-itinerary-generator.git
-cd my-itinerary-generator
+git clone https://github.com/namoag45/ai-trip-itinerary-generator.git
+cd ai-trip-itinerary-generator
 ```
 
 ### 2️⃣ Install dependencies
@@ -72,7 +72,6 @@ npm install
     ```
     localhost
     localhost:5173
-    my-itinerary-generator.vercel.app
     ```
 
 ---
@@ -85,12 +84,10 @@ npm install
   - Add the following in **Authorized JavaScript origins**:
     ```
     http://localhost:5173
-    https://my-itinerary-generator.vercel.app
     ```
   - Add the following in **Authorized redirect URIs**:
     ```
     http://localhost:5173
-    https://my-itinerary-generator.vercel.app
     ```
 
 ---
